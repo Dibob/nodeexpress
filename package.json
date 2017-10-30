@@ -8,7 +8,7 @@
     "npm":"5.4.2"
   },
   "scripts": {
-    "scripts": "node index.js"
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
